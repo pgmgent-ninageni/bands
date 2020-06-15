@@ -2,158 +2,187 @@
     {
         "id": "6e1f5dc5-54fd-40b3-ae9e-f52631ecf79d",
         "name": "Parkway Drive",
-        "img": "https://static.sportpaleisgroep.be/sportpaleis/img/events/2208/cd820e3c17b9f01780941ec1e1639f46bc1ac049/billboard.jpg"
+        "img": "https://static.sportpaleisgroep.be/sportpaleis/img/events/2208/cd820e3c17b9f01780941ec1e1639f46bc1ac049/billboard.jpg",
+        "genre": "Metalcore"
     },
         {
         "id": "da457b30-e563-4d71-b498-14014b135060",
         "name": "Asking Alexandria",
-        "img": "https://www.abconcerts.be/images/events/header-large/201108-asking-alexandria-2020-68.jpg"
+        "img": "https://www.abconcerts.be/images/events/header-large/201108-asking-alexandria-2020-68.jpg",
+        "genre": "Metalcore"
     },
         {
         "id": "b333589e-f263-47b2-9270-c4afee3dff08",
         "name": "Beartooth",
-        "img": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/91/c915cca4-58a2-5290-b1c5-4d67b8a8d84a/5c51eb4cb14e7.image.jpg?resize=1200%2C765"
+        "img": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/91/c915cca4-58a2-5290-b1c5-4d67b8a8d84a/5c51eb4cb14e7.image.jpg?resize=1200%2C765",
+        "genre": "Metalcore"
     },
         {
         "id": "ab1cd040-484f-44e6-9c93-f549c6c427d2",
         "name": "Alice Cooper",
-        "img": "https://i1.wp.com/www.noise-injection.com/wp-content/uploads/2017/12/Alice-Cooper-Revenge-Lyon.jpg"
+        "img": "https://i1.wp.com/www.noise-injection.com/wp-content/uploads/2017/12/Alice-Cooper-Revenge-Lyon.jpg",
+        "genre": "Heavy Metal"
     },
         {
         "id": "1417b386-5107-4f25-b4e7-ac200d044d06",
         "name": "Tenacious D",
-        "img": "https://www.proximusgoformusic.be/images/lightbox/tenaciousdgoformusic.jpeg"
+        "img": "https://www.proximusgoformusic.be/images/lightbox/tenaciousdgoformusic.jpeg",
+        "genre": "Heavy Metal"
     },
         {
         "id": "e74a152d-a539-4e9d-b256-08cc33aaa3b8",
         "name": "Motionless In White",
-        "img": "https://media.altpress.com/uploads/2020/02/motionless-in-white-2020.jpg"
+        "img": "https://media.altpress.com/uploads/2020/02/motionless-in-white-2020.jpg",
+        "genre": "Industrial Metal"
     },
         {
         "id": "3413b202-9ef7-4fb9-8e91-8b6cda3176d1",
         "name": "Sabaton",
-        "img": "https://static.sportpaleisgroep.be/sportpaleis/img/events/2527/92bea41ed61e15d466c1a2b00cf3c0768806958f/billboard.jpg"
+        "img": "https://static.sportpaleisgroep.be/sportpaleis/img/events/2527/92bea41ed61e15d466c1a2b00cf3c0768806958f/billboard.jpg",
+        "genre": "Powermetal"
     },
         {
         "id": "678e3f31-ac89-4244-b0e4-d54a6c1bac06",
         "name": "A Day To Remember",
-        "img": "https://static.wixstatic.com/media/eec7a8_5b23b661da454ea2923ad1a874b09c0e~mv2.jpg/v1/fill/w_980,h_653,al_c,q_90/eec7a8_5b23b661da454ea2923ad1a874b09c0e~mv2.jpg"
+        "img": "https://static.wixstatic.com/media/eec7a8_5b23b661da454ea2923ad1a874b09c0e~mv2.jpg/v1/fill/w_980,h_653,al_c,q_90/eec7a8_5b23b661da454ea2923ad1a874b09c0e~mv2.jpg",
+        "genre": "Metalcore"
     },
         {
         "id": "84b89df4-6ff7-455f-b3ab-ef523df3b228",
         "name": "Rammstein",
-        "img": "https://images3.persgroep.net/rcs/i1ZZbBr74yl9vLXRwokKoQgaSrc/diocontent/148500025/_fitwidth/1240?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.9"
+        "img": "https://images3.persgroep.net/rcs/i1ZZbBr74yl9vLXRwokKoQgaSrc/diocontent/148500025/_fitwidth/1240?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.9",
+        "genre": "Industrial Metal"
     },
         {
         "id": "ac142492-5d3a-410c-92db-4eefc83052f7",
         "name": "Korn",
-        "img": "https://www.graspop.be/images/bands/detail/gmm-2020-korn-zu2gW7O5t87IlJC-1.jpg"
+        "img": "https://www.graspop.be/images/bands/detail/gmm-2020-korn-zu2gW7O5t87IlJC-1.jpg",
+        "genre": "Nu Metal"
     },
         {
         "id": "bf411055-51cc-4245-9782-1112836cd6d4",
         "name": "Slipknot",
-        "img": "https://writteninmusic.com/wp-content/uploads/2019/07/K1774-Slipknot-cover-header1.jpg"
+        "img": "https://writteninmusic.com/wp-content/uploads/2019/07/K1774-Slipknot-cover-header1.jpg",
+        "genre": "Nu Metal"
     },
         {
         "id": "9be5794b-b657-4563-bfe9-e67a6466122e",
         "name": "Ice Nine Kills",
-        "img": "https://sdmetal.com/wp-content/uploads/2020/01/inkband.jpg"
+        "img": "https://sdmetal.com/wp-content/uploads/2020/01/inkband.jpg",
+        "genre": "Metalcore"
     },
         {
         "id": "2cebd906-0825-4364-9753-cd227240b5d6",
         "name": "Hatebreed",
-        "img": "https://www.effenaar.nl/uploads/event_spotlight_image/59005c810b73b.jpg"
+        "img": "https://www.effenaar.nl/uploads/event_spotlight_image/59005c810b73b.jpg",
+        "genre": "Metalcore"
     },
         {
         "id": "f1238b18-1421-499a-b2c3-cd7f0f60aebc",
         "name": "Crystal Lake",
-        "img": "https://avo-magazine.nl/wp-content/uploads/2018/04/crystal-lake2017.jpg"
+        "img": "https://avo-magazine.nl/wp-content/uploads/2018/04/crystal-lake2017.jpg",
+        "genre": "Metalcore"
     },
         {
         "id": "eaa3532b-cca6-4aa3-b3fd-38e7a06f2893",
         "name": "Blessthefall",
-        "img": "https://www.graspop.be/images/bands/detail/bless-the-fall.jpg"
+        "img": "https://www.graspop.be/images/bands/detail/bless-the-fall.jpg",
+        "genre": "Posthardcore"
     },
         {
         "id": "3bd26f8a-5f27-4f05-9d78-4bb20d8f2a2e",
         "name": "Chelsea Grin",
-        "img": "https://www.masqueradeatlanta.com/wp-content/uploads/2017/04/DSC00443-FINAL.jpg"
+        "img": "https://www.masqueradeatlanta.com/wp-content/uploads/2017/04/DSC00443-FINAL.jpg",
+        "genre": "Deathcore"
     },
         {
         "id": "6bc17f8a-cd9c-44df-8478-fa65cce5af9e",
         "name": "The Amity Affliction",
-        "img": "https://www.eindhovenrockcity.nl/wp-content/uploads/2017/08/the-amity-affliction-2017-press-pic-supplied.jpg"
+        "img": "https://www.eindhovenrockcity.nl/wp-content/uploads/2017/08/the-amity-affliction-2017-press-pic-supplied.jpg",
+        "genre": "Posthardcore"
     },
         {
         "id": "0345f2f5-9498-4dd1-b0d8-42e9eeeb0017",
         "name": "Higher Power",
-        "img": "https://cdn.mos.cms.futurecdn.net/7mfAqyoRNqcn4yFXnmdq4T.jpg"
+        "img": "https://cdn.mos.cms.futurecdn.net/7mfAqyoRNqcn4yFXnmdq4T.jpg",
+        "genre": "Hardcore"
     },
         {
         "id": "71dbabe6-b407-41c3-b717-f8841b7e635a",
         "name": "Black Stone Cherry",
-        "img": "https://www.rootstime.be/CD%20REVIEUW/2019/OKT/black2.jpg"
+        "img": "https://www.rootstime.be/CD%20REVIEUW/2019/OKT/black2.jpg",
+        "genre": "Heavy Metal"
     },
         {
         "id": "90739607-9cd7-422d-ae8d-2f8f7d2b2a47",
         "name": "Wynchester",
-        "img": "https://www.eat-music.net/doc/artists/Wynchester/015-2.jpg"
+        "img": "https://www.eat-music.net/doc/artists/Wynchester/015-2.jpg",
+        "genre": "Country Muziek"
     },
         {
         "id": "bff75086-2b03-4107-8f6a-5da4cd66c96c",
         "name": "Sköld",
-        "img": "https://img.discogs.com/dTthKMA5GcC9SIGUpIyn1PDO0Lo=/600x397/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-7660761-1582285314-7007.jpeg.jpg"
+        "img": "https://img.discogs.com/dTthKMA5GcC9SIGUpIyn1PDO0Lo=/600x397/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-7660761-1582285314-7007.jpeg.jpg",
+        "genre": "Industrial Metal"
     },
         {
         "id": "c888122d-6b00-497e-b36c-eb595ed20542",
         "name": "Apocalyptica",
-        "img": "https://www.emporiumpresents.com/wp-content/uploads/2019/11/Apocalyptica.jpg"
+        "img": "https://www.emporiumpresents.com/wp-content/uploads/2019/11/Apocalyptica.jpg",
+        "genre": "Heavy Metal"
     },
         {
         "id": "fd34d7be-de51-4260-9cd3-47d3a68cc448",
         "name": "Amaranthe",
-        "img": "https://i.metalfan.nl/2019/amaranthe2018_1.jpg"
+        "img": "https://i.metalfan.nl/2019/amaranthe2018_1.jpg",
+        "genre": "Powermetal"
     },
         {
         "id": "319741d2-9f76-443a-b28a-a2a34772ad1a",
         "name": "Escape The Fate",
-        "img": "https://i0.wp.com/www.smashpress.nl/wp-content/uploads/Escape-the-Fate-ETF3-klein.jpg?fit=680%2C380&ssl=1"
+        "img": "https://i0.wp.com/www.smashpress.nl/wp-content/uploads/Escape-the-Fate-ETF3-klein.jpg?fit=680%2C380&ssl=1",
+        "genre": "Posthardcore"
     },
         {
         "id": "d437a91d-cca7-430c-940a-7740d0a4786d",
         "name": "Silverstein",
-        "img": "https://cdn.calltheone.com/public/storage/blog/2/2019/06/26/silverstein.jpg"
+        "img": "https://cdn.calltheone.com/public/storage/blog/2/2019/06/26/silverstein.jpg",
+        "genre": "Posthardcore"
     },
         {
         "id": "bdb31c62-41d5-4a3f-a849-2c689e62e9d3",
         "name": "Duo Jatekok",
-        "img": "https://size.blogspirit.net/dubucsblog.com/www/836/media/00/00/3222048284.png"
+        "img": "https://size.blogspirit.net/dubucsblog.com/www/836/media/00/00/3222048284.png",
+        "genre": "Klassieke Muziek"
     },
         {
         "id": "28541a74-a7b6-45c6-9649-85dd389ea699",
         "name": "Rob Zombie",
-        "img": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/0/9c/09c590bb-aade-5f72-90e0-2da89e4555b2/5279586e6dcb0.image.jpg"
+        "img": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/0/9c/09c590bb-aade-5f72-90e0-2da89e4555b2/5279586e6dcb0.image.jpg",
+        "genre": "Heavy Metal"
     },
         {
         "id": "143f2106-c88f-4223-b8b2-7734e2474b3a",
         "name": "Powerman 5000",
-        "img": "https://alchetron.com/cdn/powerman-5000-95b63697-695b-4574-bdd9-0d34989361e-resize-750.jpeg"
+        "img": "https://alchetron.com/cdn/powerman-5000-95b63697-695b-4574-bdd9-0d34989361e-resize-750.jpeg",
+        "genre": "Industrial Metal"
     },
         {
         "id": "91577437-8e0e-4a86-97b9-9895b71007d2",
         "name": "Behemoth",
-        "img": "https://www.alcatraz.be/img/bands/behemoth.jpg"
+        "img": "https://www.alcatraz.be/img/bands/behemoth.jpg",
+        "genre": "Deathmetal"
     },
         {
         "id": "233adf02-fca7-4173-b419-36fdb70c61d0",
         "name": "The World Alive",
-        "img": "https://lh3.googleusercontent.com/proxy/SK6gxuaiQ-GHFu4QdNNx92Agtmx25tphHXaRtzgqNZ5lpFmKJmIYBrSdhzhjHoYEHMDADh6uK-jyr7d62FmnfVKDoNTvW320PYHNQbZoulBZytsgQWAkHYX40YAZE0ekRbhpqOkUeNwn1F0oD2ON3cRjiSlbgD2rty9rtL1M4r3dnh8s7Q"
+        "img": "https://lh3.googleusercontent.com/proxy/SK6gxuaiQ-GHFu4QdNNx92Agtmx25tphHXaRtzgqNZ5lpFmKJmIYBrSdhzhjHoYEHMDADh6uK-jyr7d62FmnfVKDoNTvW320PYHNQbZoulBZytsgQWAkHYX40YAZE0ekRbhpqOkUeNwn1F0oD2ON3cRjiSlbgD2rty9rtL1M4r3dnh8s7Q",
+        "genre": "Metalcore"
     },
         {
         "id": "331435f5-b60c-4ae3-95df-1f50570cc5b5",
         "name": "Mushroomhead",
-        "img": "https://q-factory-amsterdam.nl/uploads/cache/spotlight/uploads/images/spotlights/5e53d8b688503.jpg"
+        "img": "https://q-factory-amsterdam.nl/uploads/cache/spotlight/uploads/images/spotlights/5e53d8b688503.jpg",
+        "genre": "Industrial Metal"
     }
-
-    
 ]
